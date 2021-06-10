@@ -13,6 +13,6 @@ export default axios.create({
     part: "snippet",
     videoCategoryId: "10",
     type: "video",
-    key: selectRandomKey()
+    key: 'AIzaSyC6WK8yEsQuHJcibeMoXBnxS4JMLfoqGzw'
   }
 });
